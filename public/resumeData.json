@@ -1,0 +1,228 @@
+{
+  "main": {
+    "name":"Welcome to my home page!",
+    "description":"I am currently a third year undergrad majoring in Computer Science and Engineering at IIT Kanpur",
+    "image":"profilepic.jpeg",
+    "bio":"Hey there! I am a computer science undergrad at Indian Institute of Technology(IIT), Kanpur. I am interested in fields related to applications of ML, AI and Computer vision. Besides this, I have a deep interest in learning about Cybersecurity and Algorithms. Apart from academics, I love to indulge in any kind of sports. I enjoy playing cricket, football, hockey, TT, Kabaddi and Badminton. I am fond of music too. I am an amateur guitar player and love to listen to music. I believe I have to learn a lot and I love to read books in my free time and learn something new from everyone I meet.",
+    "contactmessage":"Meaningful discussions expand the knowledge of all the participants. Feel free to reach out if you want to have some nice conversations and discussions. The topic can be anything - fav books, music, sports, philosophy, politics, spirituality, or any other aspect of life.",
+    "email": "anandhitesh03@gmail.com",
+    "phone": "+91-8292919068",
+    "github":"https://github.com/hitesh-anand",
+    "project":"https://drive.google.com/file/d/1G89WwnTmNj_x1aQyB47jLnUQJE3Fijie/view?usp=sharing",
+    "address":{
+      "street":"Hall 12, IIT Kanpur",
+      "city":"Kanpur",
+      "state":"Uttar Pradesh",
+      "zip": "208016"
+    },
+    "website": "hhttps://home.iitk.ac.in/~ahitesh20/",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://m.facebook.com/100010038348083/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/hitesh-anand",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/hi.tesh6728/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/hitesh-anand",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"A slightly graphical presentation of the skills I have been fortunate enough to learn. I still have a lot to learn and I hope to expand the progress bars and add some more skills in future!",
+    "education":[
+      {
+        "school":"Indian Institute of Technology, Kanpur",
+        "degree":"Computer Science and Engineering (BTech)",
+        "graduated":"Nov 2020-Present",
+        "description":"Probably in the best phase of my life. Enthusiastic and keen to learn about Machine Learning, AI, Algorithms, and Cybersecurity."
+      },
+      {
+        "school":"DAV Public School, Cantt Road, Khagaul",
+        "degree":"High School",
+        "graduated":"July 2020",
+        "description":"Had a really great and memorable time. The best thing about DAVs - they teach about natural as well as moral sciences in a really great manner."
+      }
+    ],
+    "work":[
+      {
+        "company":"Intel Corporation",
+        "title":"Summer Research Intern",
+        "years":"May '22 - July '22",
+        "description":"Worked on the Quantization of Deep Learning Models using Intel OpenVINO, and training ML models on AWS using Intel Gaudi Processors. My first internship experience. Although short, it taught me really great things about corporate work, ethics, time management, technical communication, and a lot more!!!"
+      },
+      {
+        "company":"Quadeye Securities",
+        "title":"Incoming Summer Intern",
+        "years":"May '23 - July '23 (Expected)",
+        "description":"Really excited about exploring a new domain - HFTs. Hope to have a good time there :)"
+      }
+    ],
+    "achieve":[
+      {
+        "place":"IIT Kanpur",
+        "title":"Academic Excellence Award",
+        "time":"2020-21, 2021",
+        "description":"Received the Academic Excellence Award for meritorious academic performance. Perfect CPI of 10 at the end of first year."
+      },
+      {
+        "place":"IIT Kanpur",
+        "title":"Director's Scholarship",
+        "time":"2020",
+        "description":"Awarded for being among the top JEE rankers in the institute."
+      },
+      {
+        "place":"All India Rank - 139",
+        "title":"JEE Advanced",
+        "time":"2020",
+        "description":"Received an All India Rank of 139 out of around 160k candidates. Overall 4th rank in the IIT Guwahati zone."
+      },
+      {
+        "place":"All India Rank - 140",
+        "title":"JEE Main",
+        "time":"2020",
+        "description":"Received an All India Rank of 140 out of around 600k candidates."
+      },
+      {
+        "place":"CBSE 12th Boards",
+        "title":"CBSE Certificate of Merit",
+        "time":"2020",
+        "description":"Among top 0.1% of students in three subjects : Physics, Chemistry and Informatics Practices. Also ended among the top 5 overall ranks in Bihar zone."
+      },
+      {
+        "place":"All India Rank - 465",
+        "title":"Kishore Vaigyanik Protsahan Yojana (KVPY)",
+        "time":"2020",
+        "description":"Received an All Indian Rank of 465. Cleared both the written and interview rounds."
+      },
+      {
+        "place":"NTSE Scholar",
+        "title":"National Talent Search Examination",
+        "time":"2018",
+        "description":"Cleared both the state and national level exams to become an NTSE scholar."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"75%"
+      },
+      {
+        "name":"C/C++",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"Javascript",
+        "level":"60%"
+      },
+      {
+        "name":"Verilog",
+        "level":"60%"
+      },
+      {
+        "name":"JAVA",
+        "level":"60%"
+      },
+      {
+        "name":"Bash",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
